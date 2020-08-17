@@ -23,6 +23,9 @@ collaborators:
   - username: kaywilliams
     permission: admin
 
+  - username: iamamoose
+    permission: admin
+    
     # Contributors
     # all permissions except admin
 
