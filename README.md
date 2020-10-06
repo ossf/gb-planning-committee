@@ -1,5 +1,5 @@
-# Governing Board Strategy Committee
-The OpenSSF Governing Board Strategy Committee meets weekly to discuss topics related to strategic vision and planning including mission, vision, roadmap, and key metrics for success of the overall organization. Committee participation is open to the public.
+# Governing Board Planning Committee
+The OpenSSF Governing Board Planning Committee meets weekly to discuss topics related to planning, mission, vision, roadmap, milestones and key metrics related to the overall success of the organization. Committee participation is open to the public.
 
 ## Get Involved
 
