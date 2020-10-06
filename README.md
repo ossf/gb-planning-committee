@@ -1,5 +1,5 @@
 # Governing Board Planning Committee
-The OpenSSF Governing Board Planning Committee meets weekly to discuss topics related to planning, mission, vision, roadmap, milestones and key metrics related to the overall success of the organization.
+The OpenSSF Governing Board Planning Committee meets weekly to discuss topics related to planning, mission, vision, roadmap, milestones and key metrics for the overall success of the organization.
 ## Get Involved
 
 ### Communications:
