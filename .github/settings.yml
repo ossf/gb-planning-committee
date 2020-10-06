@@ -5,7 +5,7 @@ repository:
   name: gb-planning-committee
 
   # A short description of the repository that will show up on GitHub
-  description: OpenSSF GB Planning Committee
+  description: The Governing Board Planning Committee meets weekly to discuss topics related to planning, mission, vision, roadmap, milestones and key metrics for the overall success of the organization.
 
   # A URL with more information about the repository
   homepage: https://openssf.org
