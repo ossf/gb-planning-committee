@@ -2,10 +2,10 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: gb-strategy-committee
+  name: gb-planning-committee
 
   # A short description of the repository that will show up on GitHub
-  description: OpenSSF GB Strategy Committee
+  description: OpenSSF GB Planning Committee
 
   # A URL with more information about the repository
   homepage: https://openssf.org
