@@ -3,8 +3,8 @@ The OpenSSF Governing Board Planning Committee meets weekly to discuss topics re
 ## Get Involved
 
 ### Communications:
-- Join the email alias: https://lists.openssf.org/g/openssf-gb-strategy-committee
-- Send email to the alias: openssf-gb-strategy-committee@lists.openssf.org
+- Join the email alias: https://lists.openssf.org/g/openssf-gb-planning-committee
+- Send email to the alias: openssf-gb-planning-committee@lists.openssf.org
 
 ### Meetings:
 - Recurring meetings are held each Monday at 10 AM Pacific.
@@ -13,4 +13,4 @@ The OpenSSF Governing Board Planning Committee meets weekly to discuss topics re
 
 ### Additional Resources:
 - Google Drive Folder: https://drive.google.com/drive/folders/1p22zSnZwyuh4iewxIYsOKWf3mxpRZELC?usp=sharing
-- Github Project: https://github.com/ossf/gb-strategy-committee
+- Github Project: https://github.com/ossf/gb-planning-committee
