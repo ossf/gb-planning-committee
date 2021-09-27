@@ -8,7 +8,7 @@ The OpenSSF Governing Board Planning Committee meets weekly to discuss topics re
 
 ### Meetings:
 - Recurring meetings are held each Monday at 10 AM Pacific.
-- Meetings are held via Zoom video conference: https://zoom.us/j/92509397763
+- Meetings are held via Zoom video conference: https://zoom.us/j/91781299743
 - Meeting Agenda and Minutes: https://docs.google.com/document/d/1fzaf_qfTI2pUMidkxsmObgF5MqKZVzNCYKJZC9SjKtA/edit?usp=sharing
 
 ### Additional Resources:
