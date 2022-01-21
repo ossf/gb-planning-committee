@@ -7,8 +7,8 @@ The OpenSSF Governing Board Planning Committee meets weekly to discuss topics re
 - Send email to the alias: openssf-gb-planning-committee@lists.openssf.org
 
 ### Meetings:
-- Recurring meetings are held each Monday at 10 AM Pacific.
-- Meetings are held via Zoom video conference: https://zoom.us/j/92509397763
+- Recurring meetings are held every three Mondays at 10 AM Pacific.
+- Meetings are held via Zoom video conference: https://zoom.us/j/91854496940?pwd=c2hiVjhYdXNieUZCanpVMXgwWCtpUT09
 - Meeting Agenda and Minutes: https://docs.google.com/document/d/1fzaf_qfTI2pUMidkxsmObgF5MqKZVzNCYKJZC9SjKtA/edit?usp=sharing
 
 ### Additional Resources:
